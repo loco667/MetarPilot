@@ -66,4 +66,4 @@ We may update this policy from time to time. Updated versions will be posted wit
 10. Contact
 
 If you have questions about this policy, contact:
-metarwatchios@plek2.aero
+MetarWatchiOS@plek2.aero
