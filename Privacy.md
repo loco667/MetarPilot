@@ -57,7 +57,7 @@ The App does not use third-party analytics SDKs, ad SDKs, or cross-app tracking.
 
 8. Children’s Privacy
 
-The App is not directed to children under 13, and we do not knowingly collect personal data from children.
+The App is not directed to children under 4, and we do not knowingly collect personal data from children.
 
 9. Changes to This Policy
 
