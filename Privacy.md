@@ -31,14 +31,14 @@ App data is stored locally on your device using Apple-provided local storage (Ap
 4. Network Requests
 
 To retrieve aviation weather, the App sends requests to:
-- https://aviationweather.gov/api/data/
+- US National Weather Service at https://aviationweather.gov/api/data/
 
 These requests may include:
-- Your IP address
 - Airport identifiers (for METAR/TAF lookups)
 - A geographic bounding box derived from your location (for nearest-station search)
+- Source (your) IP address
 
-We do not operate that external service and are not responsible for its independent privacy practices.
+US National Weather Service privacy policy is available here: https://www.weather.gov/privacy
 
 5. Data Sharing
 
