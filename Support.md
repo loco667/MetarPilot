@@ -1,13 +1,13 @@
-# MetarWatch Support
+# Metar Pilot Support
 
-If you need help with MetarWatch, contact:
+If you need help with Metar Pilot, contact:
 
-**Email:** MetarWatchiOS@plek2.aero
+**Email:** MetarPilot@plek2.aero
 
 ## Frequently Asked
 
 ### Location is not updating
-- On iPhone: Settings → Privacy & Security → Location Services → MetarWatch → **While Using the App**
+- On iPhone: Settings → Privacy & Security → Location Services → MetarPilot → **While Using the App**
 - On Apple Watch: Watch app on iPhone → Privacy → Location Services
 
 ### Widget shows no data
