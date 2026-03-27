@@ -2,7 +2,7 @@ Privacy Policy
 
 Effective date: 26.03.2026
 
-MetarWatch iOS (“the App”) respects your privacy. This policy explains what data the App processes, why, and how it is handled.
+MetarPilot (“the App”) respects your privacy. This policy explains what data the App processes, why, and how it is handled.
 
 1. Data We Process
 
@@ -67,4 +67,4 @@ We may update this policy from time to time. Updated versions will be posted wit
 10. Contact
 
 If you have questions about this policy, contact:
-MetarWatchiOS@plek2.aero
+MetarPilot@plek2.aero
